@@ -16,8 +16,8 @@ Puis lancer le serveur de développement avec :
 
 ## Objectifs
 
-* [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice1".
-* [ ] Ajouter ce composant dans le composant "app"
+* [ * ] Créez, dans le répertoire app, un composants avec le nom : "exerice1".
+* [ * ] Ajouter ce composant dans le composant "app"
 * [ ] Dans ce composant, mettez en place trois exemples de liaison. un sur un attribut avec [] un autre sur un evement avec () et le dernier avec une interpolation de variable {{ }} ; ( tu peux utiliser le fichier typescript du composant si tu le souhaites ).
 * [ ] Un clic sur le composant "exercice2" doit afficher "click" dans la console.
 * [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice3".
