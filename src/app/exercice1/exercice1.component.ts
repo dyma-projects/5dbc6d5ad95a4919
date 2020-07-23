@@ -12,7 +12,7 @@ export class Exercice1Component implements OnInit {
   // Titre de la page - Interpolation de variable
   public pageTitle = 'Interpolation de variable'
 
-  // Attribut du checkbox
+  // Checkbox - Liaison sur attribut
   public type = 'checkbox';
   public id = 'checkbox-liaison'
   public name = 'checkbox';
@@ -20,6 +20,7 @@ export class Exercice1Component implements OnInit {
   public fontSize = '10px';
 
 
+  // Liaison sur évènement - mouseenter
   /**
    * @description
    * Modifie la taille de la police
