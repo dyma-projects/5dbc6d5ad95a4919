@@ -10,11 +10,11 @@ import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 export class Exercice1Component implements OnInit {
 
   // Attribut du checkbox
-  type = 'checkbox';
-  id = 'checkbox-liaison'
-  name = 'checkbox';
-  checked = true;
-  fontSize = '10px';
+  public type = 'checkbox';
+  public id = 'checkbox-liaison'
+  public name = 'checkbox';
+  public checked = true;
+  public fontSize = '10px';
 
 
   /**
