@@ -7,6 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Exercice1Component implements OnInit {
 
+  // Attribut du checkbox
+  type = 'checkbox';
+  name = 'checkbox';
+  checked = true;
+
   constructor() { }
 
   ngOnInit(): void {
