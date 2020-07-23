@@ -9,6 +9,9 @@ import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 })
 export class Exercice1Component implements OnInit {
 
+  // Titre de la page - Interpolation de variable
+  public pageTitle = 'Interpolation de variable'
+
   // Attribut du checkbox
   public type = 'checkbox';
   public id = 'checkbox-liaison'
