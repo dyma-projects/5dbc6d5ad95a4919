@@ -12,7 +12,7 @@ export class Exercice1Component implements OnInit {
   // Titre de la page - Interpolation de variable
   public pageTitle = 'Interpolation de variable'
 
-  // Checkbox - Liaison sur attribut
+  // Checkbox - Liaison sur attribut - La liaison de propriété
   public type = 'checkbox';
   public id = 'checkbox-liaison'
   public name = 'checkbox';
