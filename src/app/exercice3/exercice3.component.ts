@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Exercice3Component implements OnInit {
 
+  public status = true;
+
   constructor() { }
 
   ngOnInit(): void {
