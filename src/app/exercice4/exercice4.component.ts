@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Exercice4Component implements OnInit {
 
+  public texts: string[] = ['un', 'deux', 'trois'];
+
   constructor() { }
 
   ngOnInit(): void {

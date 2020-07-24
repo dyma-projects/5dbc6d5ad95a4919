@@ -29,8 +29,8 @@ Puis lancer le serveur de développement avec :
 * [x] Si status est à TRUE, le paragraphe contenant p1 doit être affiché, sinon c'est le paragraphe p2 quoi l'etre.
 * [x] Créez, dans le répertoire app, un composants avec le nom : "exerice4".
 * [x] Ajouter ce composant dans le composant "app"
-* [ ] Dans ce composant ajouter un attribut 'texts' de type tableau de chaîne de caractères. Dans cette attribut définir trois chaines de caractères contenant les valeurs 'un', 'deux' et 'trois'.
-* [ ] Utilisez une liste 'ul' et afficher tous les éléments du tableau 'texts' dans des balises 'li'.
+* [x] Dans ce composant ajouter un attribut 'texts' de type tableau de chaîne de caractères. Dans cette attribut définir trois chaines de caractères contenant les valeurs 'un', 'deux' et 'trois'.
+* [x] Utilisez une liste 'ul' et afficher tous les éléments du tableau 'texts' dans des balises 'li'.
       
 ## Avant de finir le projet
 
