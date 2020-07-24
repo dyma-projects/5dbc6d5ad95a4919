@@ -20,10 +20,10 @@ Puis lancer le serveur de développement avec :
 * [x] Ajouter ce composant dans le composant "app"
 * [x] Dans ce composant, mettez en place trois exemples de liaison. un sur un attribut avec [] un autre sur un evement avec () et le dernier avec une interpolation de variable {{ }} ; ( tu peux utiliser le fichier typescript du composant si tu le souhaites ).
 * [x] Un clic sur le composant "exercice2" doit afficher "click" dans la console.
-* [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice3".
-* [ ] Ajouter ce composant dans le composant "app"
-* [ ] Dans le template de ce composant, mettre deux paragraphe avec comme contenu 'p1' et 'p2'      
-* [ ] Ajouter dans le component un attribut 'status', de type boolean, initialisé à TRUE.
+* [x] Créez, dans le répertoire app, un composants avec le nom : "exerice3".
+* [x] Ajouter ce composant dans le composant "app"
+* [x] Dans le template de ce composant, mettre deux paragraphe avec comme contenu 'p1' et 'p2'      
+* [x] Ajouter dans le component un attribut 'status', de type boolean, initialisé à TRUE.
 * [ ] Ajouter dans le component un bouton.
 * [ ] Cliquez sur le bouton doit inverser la valeur de l'attribut 'status'.
 * [ ] Si status est à TRUE, le paragraphe contenant p1 doit être affiché, sinon c'est le paragraphe p2 quoi l'etre.
