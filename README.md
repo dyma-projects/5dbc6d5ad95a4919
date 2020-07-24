@@ -24,7 +24,7 @@ Puis lancer le serveur de développement avec :
 * [x] Ajouter ce composant dans le composant "app"
 * [x] Dans le template de ce composant, mettre deux paragraphe avec comme contenu 'p1' et 'p2'      
 * [x] Ajouter dans le component un attribut 'status', de type boolean, initialisé à TRUE.
-* [ ] Ajouter dans le component un bouton.
+* [x] Ajouter dans le component un bouton.
 * [ ] Cliquez sur le bouton doit inverser la valeur de l'attribut 'status'.
 * [ ] Si status est à TRUE, le paragraphe contenant p1 doit être affiché, sinon c'est le paragraphe p2 quoi l'etre.
 * [ ] Créez, dans le répertoire app, un composants avec le nom : "exerice4".
