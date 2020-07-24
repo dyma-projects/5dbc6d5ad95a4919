@@ -7,6 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Exercice2Component implements OnInit {
 
+  /**
+   * @description
+   * Affiche 'click' dans la console 
+   */
+  public showClickOnConsole(): void {
+    console.log('click');
+  }
+
   constructor() { }
 
   ngOnInit() {
