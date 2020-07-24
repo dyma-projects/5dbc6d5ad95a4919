@@ -1,11 +1,13 @@
-<h1>{{ pageTitle }}</h1>
+<h2>Exercice 1</h2>
+
+<h3>{{ pageTitle }}</h3>
 
 <hr>
-<h2>Liaison sur attribut [] - La liaison de propriété</h2>
+<h3>Liaison sur attribut [] - La liaison de propriété</h3>
 <div>
     <input [type]="type" [id]="id" [name]="name" [checked]="checked">
     <label [for]="name">Liaison sur attribut / Liaison de propriété</label>
 </div>
 <hr>
-<h2>Liaison sur évènement ()</h2>
+<h3>Liaison sur évènement ()</h3>
 <p class='liaisonOnEvent' [style.fontSize]="fontSize" (mouseenter)="changeFontSize('20px')">Test liaison sur un évènement</p>

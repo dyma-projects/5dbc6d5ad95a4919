@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+h1 {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
